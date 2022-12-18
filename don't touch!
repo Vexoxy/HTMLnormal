@@ -1,0 +1,49 @@
+<html>
+ <head>
+  <title> Cat'o'website </title>
+  <link rel="stylesheet" href="ms.css">
+   <body bgcolor="grey">
+     <div class="main-body" bgcolor="yellow">
+        <div class="top-menu">
+          <div class="top-menu-name">
+              roma
+          </div>
+          <div class="top-menu-botton" id="test">
+                romaa
+          </div>
+          <div class="top-menu-botton" id="tesd">
+              romaa
+          </div>
+          <div class="top-menu-botton" id="tesi">
+              romaa
+          </div>
+          <div class="form">
+            <form class="InputText" actio="" method="" accept-charset="UTF-8" target="">
+              <fieldset>
+              <p><label for="name">Имя <em>*</em></label><input type="text" id="textformNAME" ></p>
+              <p><label for="email">E-mail <em>*</em></label><input type="text" id="textformEMAIL" ></p>
+              <p><label for="password">Пароль <em>*</em></label><input type="text" id="textformPASS" ></p>
+            </fieldset>
+              <p><input type="submit" value="Отправить"></p>
+              <p><input type="button" value=""></p>
+              <p><input type="checkbox" value=""></p>
+              <p><input type="date" value=""></p>
+              <p><input type="radio" value=""></p>
+            </form>
+          </div>
+        </div>
+     </div>
+     <div class="body-content">
+       <div class="content">
+         123
+         <div class="content-box">
+           <div img scr="you.jpg">
+         </div>
+         <div class="content-box2">
+
+         </div>
+       </div>
+     </div>
+   </body>
+ </head>
+</html>
